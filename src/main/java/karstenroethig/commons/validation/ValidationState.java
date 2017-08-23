@@ -1,10 +1,8 @@
 package karstenroethig.commons.validation;
 
-public enum ValidationState {
-
+public enum ValidationState
+{
 	ERROR,
-	
 	WARNING,
-	
 	INFO;
 }
